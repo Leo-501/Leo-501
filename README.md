@@ -1,4 +1,4 @@
-<h1 align="center">Olá me chamo Leonardo</h1>
+<h1 align="center">Olá me chamo Leonardo!</h1>
 <h3 align="center">Desenvolvendo minhas habilidades para atuar como dev front-end</h3>
 
 <style background-color:"black"></style>
