@@ -1,9 +1,7 @@
 <h1 align="center">Olá me chamo Leonardo</h1>
 <h3 align="center">Desenvolvendo minhas habilidades para atuar como dev front-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-501&label=Profile%20views&color=0e75b6&style=flat" alt="leo-501" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo-501" alt="leo-501" /></a> </p>
+<style background-color:"black"></style>
 
 - 🌱 Estudando... **JS, Py, Html, Css, C#**
 
