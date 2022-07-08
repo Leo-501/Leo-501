@@ -1,10 +1,6 @@
 <h1 align="center">Olá me chamo Leonardo!</h1>
 <h3 align="center">Desenvolvendo minhas habilidades para atuar como dev back-end e front-end</h3>
 
-<style>
-  backgrounnd-color: "black";
- </style>
-
 - 🌱 Estudando... **JS, Py, Html, Css, C#**
 
 - 👨‍💻 Visite meus projetos [https://github.com/Leo-501?tab=repositories](https://github.com/Leo-501?tab=repositories)
