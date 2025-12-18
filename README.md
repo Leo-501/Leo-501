@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <title>Leonardo Sant'ana | GitHub</title>
-</head>
 <body>
 
 <h1>👋 Olá, eu sou Leonardo Sant'ana</h1>
