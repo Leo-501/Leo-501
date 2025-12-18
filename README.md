@@ -3,11 +3,11 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <title>Leonardo Santana | GitHub</title>
+  <title>Leonardo Sant'ana | GitHub</title>
 </head>
 <body>
 
-<h1>👋 Olá, eu sou Leonardo Santana</h1>
+<h1>👋 Olá, eu sou Leonardo Sant'ana</h1>
 
 <p>
 Sou <strong>desenvolvedor de software</strong> com foco em <strong>PowerBuilder</strong> e <strong>C# (.NET)</strong>, atuando principalmente com <strong>sistemas corporativos e ERPs</strong>. Trabalho diariamente com código legado, melhorias contínuas, correções críticas e evolução de sistemas em produção.
@@ -22,11 +22,11 @@ Tenho perfil técnico, gosto de entender o funcionamento do sistema como um todo
 <h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/PowerBuilder-22R3-blue" />
+  <img src="https://img.shields.io/badge/PowerBuilder-orange" />
   <img src="https://img.shields.io/badge/C%23-.NET-purple" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" />
+  <img src="https://img.shields.io/badge/oracle-db-blue" />
   <img src="https://img.shields.io/badge/SQL%20Server-DB-red" />
-  <img src="https://img.shields.io/badge/SQLite-DB-lightgrey" />
+  <img src="https://img.shields.io/badge/sapmaxdb-db-lightgrey" />
 </p>
 
 <p>
@@ -47,8 +47,7 @@ Tenho perfil técnico, gosto de entender o funcionamento do sistema como um todo
 <h2>🚀 O que você vai encontrar aqui</h2>
 
 <ul>
-  <li>Projetos e exemplos em <strong>PowerBuilder</strong></li>
-  <li>Utilitários, estudos e serviços em <strong>C#</strong></li>
+  <li>Projetos e exemplos em <strong>PowerBuilder</strong> e <strong>C#</strong></li>
   <li>Padrões de organização de código e arquitetura</li>
   <li>Experimentos com ideias de <strong>SaaS</strong> e <strong>ERP</strong></li>
 </ul>
