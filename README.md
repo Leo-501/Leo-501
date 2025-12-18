@@ -1,12 +1,79 @@
-- 👨‍💻 Projects: [https://github.com/Leo-501?tab=repositories](https://github.com/Leo-501?tab=repositories)
+<!DOCTYPE html>
 
-- 📫 Contact: **leohsantana20@gmail.com**
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Leonardo Santana | GitHub</title>
+</head>
+<body>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardo-santana-49706818a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo henrique" height="30" width="40" /></a>
+<h1>👋 Olá, eu sou Leonardo Santana</h1>
+
+<p>
+Sou <strong>desenvolvedor de software</strong> com foco em <strong>PowerBuilder</strong> e <strong>C# (.NET)</strong>, atuando principalmente com <strong>sistemas corporativos e ERPs</strong>. Trabalho diariamente com código legado, melhorias contínuas, correções críticas e evolução de sistemas em produção.
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<p>
+Tenho perfil técnico, gosto de entender o funcionamento do sistema como um todo — banco de dados, regra de negócio e performance — sempre buscando soluções limpas, seguras e sustentáveis a longo prazo.
+</p>
 
+<hr />
+
+<h2>🛠️ Tecnologias & Ferramentas</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/PowerBuilder-22R3-blue" />
+  <img src="https://img.shields.io/badge/C%23-.NET-purple" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" />
+  <img src="https://img.shields.io/badge/SQL%20Server-DB-red" />
+  <img src="https://img.shields.io/badge/SQLite-DB-lightgrey" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Versionamento-orange" />
+  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-orange" />
+  <img src="https://img.shields.io/badge/ERP-Sistemas%20Corporativos-success" />
+</p>
+
+<ul>
+  <li><strong>PowerBuilder:</strong> manutenção, refatoração, novas funcionalidades e integrações</li>
+  <li><strong>C# / .NET:</strong> serviços, aplicações de apoio e automações</li>
+  <li><strong>Banco de Dados:</strong> modelagem, queries, performance e integridade</li>
+  <li><strong>Versionamento:</strong> controle de código, revisão e organização de branches</li>
+</ul>
+
+<hr />
+
+<h2>🚀 O que você vai encontrar aqui</h2>
+
+<ul>
+  <li>Projetos e exemplos em <strong>PowerBuilder</strong></li>
+  <li>Utilitários, estudos e serviços em <strong>C#</strong></li>
+  <li>Padrões de organização de código e arquitetura</li>
+  <li>Experimentos com ideias de <strong>SaaS</strong> e <strong>ERP</strong></li>
+</ul>
+
+<hr />
+
+<h2>📈 Filosofia de desenvolvimento</h2>
+
+<ul>
+  <li>Código limpo e legível</li>
+  <li>Manutenção facilitada para o futuro</li>
+  <li>Respeito ao legado, mas sem medo de melhorar</li>
+  <li>Foco em estabilidade, performance e regra de negócio</li>
+</ul>
+
+<hr />
+
+<h2>📫 Contato</h2>
+
+<ul>
+  <li>💼 LinkedIn: <em>https://www.linkedin.com/in/leonardo-sant-ana-49706818a</em></li>
+  <li>📧 Email: <em>leohsantana20@gmail.com</em></li>
+</ul>
+
+<hr/>
+
+</body>
+</html>
