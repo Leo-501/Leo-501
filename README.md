@@ -16,9 +16,9 @@ Sou <strong>desenvolvedor de software</strong> com foco em <strong>PowerBuilder<
 <p>
   <img src="https://img.shields.io/badge/PowerBuilder-orange" />
   <img src="https://img.shields.io/badge/C%23-.NET-purple" />
-  <img src="https://img.shields.io/badge/oracle-db-blue" />
-  <img src="https://img.shields.io/badge/SQL%20Server-DB-red" />
-  <img src="https://img.shields.io/badge/sapmaxdb-db-lightgrey" />
+  <img src="https://img.shields.io/badge/Oracle-DB-red" />
+  <img src="https://img.shields.io/badge/SQL%20Server-DB-blue" />
+  <img src="https://img.shields.io/badge/SAP%MaxDB-DB-lightgrey" />
 </p>
 
 <p>
