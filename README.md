@@ -9,10 +9,6 @@
 Sou <strong>desenvolvedor de software</strong> com foco em <strong>PowerBuilder</strong> e <strong>C# (.NET)</strong>, atuando principalmente com <strong>sistemas corporativos e ERPs</strong>. Trabalho diariamente com código legado, melhorias contínuas, correções críticas e evolução de sistemas em produção.
 </p>
 
-<p>
-Tenho perfil técnico, gosto de entender o funcionamento do sistema como um todo — banco de dados, regra de negócio e performance — sempre buscando soluções limpas, seguras e sustentáveis a longo prazo.
-</p>
-
 <hr />
 
 <h2>🛠️ Tecnologias & Ferramentas</h2>
